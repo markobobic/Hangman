@@ -1,0 +1,34 @@
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Hangman.exe.config
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Hangman.exe
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Hangman.pdb
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Buffers.dll
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Memory.dll
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Buffers.xml
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Memory.xml
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\Hangman.exe
+C:\Users\Marko\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\Hangman.pdb
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\Hangman.exe.config
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\Hangman.exe
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\Hangman.pdb
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Buffers.dll
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Memory.dll
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Buffers.xml
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Memory.xml
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marko\Desktop\New folder\Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marko\Desktop\New folder\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\New folder\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Marko\Desktop\New folder\Game\obj\Debug\Hangman.exe
+C:\Users\Marko\Desktop\New folder\Game\obj\Debug\Hangman.pdb
