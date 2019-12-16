@@ -85,7 +85,7 @@ namespace ConsoleApp10
                 }
             }
         }
-
+        // vezbanje gita 
         private string ChooseWord()
         {
             Debug.Assert(_wordList.Count() > 0);
